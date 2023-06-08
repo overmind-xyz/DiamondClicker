@@ -1,0 +1,1 @@
+# Smart contract code will be open-source when https://overmind.xyz/quests/diamond-clicker $5,000 prize pool has been completed
